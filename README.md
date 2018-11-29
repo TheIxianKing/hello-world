@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+Hello people,
+
+I am testing the repositories on GitHub.
+Stay cool!
